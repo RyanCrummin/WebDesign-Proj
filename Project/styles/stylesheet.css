@@ -1,0 +1,156 @@
+header{
+    
+    background-color: rgb(28, 26, 26);  
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    text-decoration: underline solid white;
+    opacity: 90%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    margin-top: 1%;
+}
+h1{
+    font-size: 3em;
+    margin-left: 43%;
+    color: white;
+    font-style: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+nav{
+    margin-top: 10px;
+    text-decoration: none;
+    opacity:90%;
+}
+nav ul{
+    border: 2px solid black;
+    margin-top: 2%;
+    background-color: rgb(28, 26, 26);    
+    padding: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    opacity:90%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+
+}
+
+nav ul li:hover{
+    background-color: turquoise;
+    opacity:90%;
+
+}
+nav ul li{
+    color: black;
+    display: inline;
+    border: 2px solid black;
+    font-size: 1.2em;
+    margin-left: 15%;
+    background-color: silver;
+    padding: 10px;
+    text-decoration: none ;
+    border-radius: 10px;
+    opacity:75%;
+
+}
+main{
+    background-color: rgb(28, 26, 26);
+    border: 2px solid black;
+    width: 80%; 
+    float: left;
+    opacity:90%;
+    border-radius: 20px;
+    margin-left: 0.5%;
+}
+h2{
+    color: white;
+    font-size: 1.2em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+h3{
+    color:white;
+    font-size: 1em;
+    margin-right: 20%;
+
+}
+
+html{
+    background-color: rgb(28, 26, 26); 
+}
+aside{
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: rgb(28, 26, 26);
+    padding: 30px;
+    float: right;
+    display: inline;
+    width: 14%;  
+    opacity: 90%; 
+    margin-right: 0.5%;
+    color: white;
+    font-size: 1.2em;
+    
+}
+.htmlHome{
+    background-image: url('https://media.giphy.com/media/tSGXqPyvWxxAtRaevb/giphy.gif');
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.htmlRust{
+    background-image: url('https://media.giphy.com/media/Sbwsp1XJ3yaJ9sz6u5/giphy.gif?cid=790b7611irlzuzjm3x0etq3vtqras1iyue8au13lkp8ucue3&ep=v1_gifs_search&rid=giphy.gif&ct=g');
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.htmlPalworld{
+    background-image: url('https://media.giphy.com/media/mpj0fPAgf9f8VUodOs/giphy.gif?cid=790b7611vvaqpe7flsoaihty6utdfm4keze31lykgh1t0j84&ep=v1_gifs_search&rid=giphy.gif&ct=g');
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.htmlCSGO{
+    background-image: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG00M2kwYnJvd2M5ODEwMDJ3NG80bTljZ3lqenE0eXg1enR2Yzd1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TgOOIJcXlQ0h7tGQKX/giphy.gif');
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+body{
+    margin: 0%;
+}
+footer{
+    background-color: rgb(28, 26, 26);
+}
+.asidebar ul li{
+    color: white;
+}
+
+.asidebar{
+    
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+}
+.gamesTab{
+    border-bottom: 2px solid white;
+}
+p{
+    font-family: sans-serif;
+    font-size: 1.2em;
+    color: white;
+}
+footer{
+    background-color: rgb(28, 26, 26);
+    opacity:90%;
+    float: left;
+    margin: 2%;
+    border: 2px solid gray;
+    border-radius: 20px;
+    padding: 10px;
+    opacity: 90%;
+    width: 95%;
+}
